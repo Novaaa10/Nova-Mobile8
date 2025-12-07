@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23265456224",
+    "project_id": "tugas9-73754",
+    "storage_bucket": "tugas9-73754.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23265456224:android:b5e15b4b89ff3c92629305",
+        "android_client_info": {
+          "package_name": "com.example.tugas9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-JCRvWZaCLCOmQ32EORuzryV9ZZhUePM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
